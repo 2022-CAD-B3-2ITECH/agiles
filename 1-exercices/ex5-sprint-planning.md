@@ -8,7 +8,7 @@
 
 ### En équipe (tout le monde)
 
-1. À partir de votre *product backlog*, sélectionnez 3 *US* à intégrer pour votre premier ***sprint***.
+1. À partir de votre *product backlog*, sélectionnez les *US* pour remplir l'objectif suivant **"Un client doit pouvoir acheter un produit cosmétique"**.
 2. Précisez votre (vos) livrable(s) autrement dit indiquez ce qui sera livré à la fin du *sprint*.
 
 ### Uniquement pour les développeurs
